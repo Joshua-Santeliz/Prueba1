@@ -6,7 +6,6 @@ print(plantas)
 length(plantas)
 "hola R"
 print
-saludo <- "hola R"
-print(hola R)
-length(saludo)
+
+
 class(plantas)
